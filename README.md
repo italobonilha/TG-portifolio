@@ -207,7 +207,9 @@ Neste projeto pude dar continuidade e me aprofundar na função de Product Owner
 
 ## Em 2023-1
 ### Parceiro Acadêmico
- - VISIONA - Tecnologia Espacial 
+ - VISIONA - Tecnologia Espacial
+
+ 
 A empresa foi fundada em 2012 e surgiu como uma parceria estratégica entre a Embraer Defesa & Segurança e a Telebras com foco na integração de sistemas espaciais e na oferta de serviços via satélite.
 
 
@@ -293,7 +295,9 @@ Neste projeto eu pude ter o primeiro contato com a função de Desenvolvedor ten
 
 ## Em 2023-2
 ### Parceiro Acadêmico
- - GRENNEAT - Limpeza Sustentável 
+ - GRENNEAT - Limpeza Sustentável
+
+   
 A Grenneat é uma empresa focada na criação de produtos de limpeza sustentável com o foco na sustentabilidade e economia circular dos produtos e comercialização. 
 
 
