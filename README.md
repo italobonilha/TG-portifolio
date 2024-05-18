@@ -28,9 +28,9 @@ Visando o nosso aprendizado de forma interativa e prática o projeto também nos
 - Reuniões com os representantes das empresas;
 - Reuniões entre o grupo de desenvolvimento formado em sala para a conclusão satisfatória do desafio proposto.
 
-# 2023 - 1 
+# 2022 - 1 
 
-> Empresa Parceira :
+# Parceiro Acadêmico
  - FATEC SÃO JOSÉ DOS CAMPOS - PROF. JASSEN VIDAL.
 
 
@@ -125,3 +125,260 @@ A metodologia ágil e a divisão de funções permitiu a transição de responsa
  - Trabalho em Equipe;
  - Colaboração;
  - Liderança.
+
+# 2022-2
+# Parceiro Acadêmico
+
+TRACKCASH
+A TrackCash é uma empresa focada na gestão financeira, projetada para ajudar empresas de diferentes tamanhos e setores para organizar suas finanças. Oferecendo uma solução de negócios (B2B) com intuito de conciliar vendas e pagamento de diversas plataformas de comércio, como e-commerce, marketplace e lojas físicas, oferecendo aos seus clientes um painel para que eles possam visualizar e gerenciar transações finaceiras de suas plataformas de vendas. 
+
+
+### Projeto:
+No segundo semestre tivemos como objetivo desenvolver um CRUD para que eles pudessem atender a demanda dos seus clientes que são vendedores de lojas onlines e fisicas, afim de  realizar o processo de conciliação finaceira. 
+
+### Problema:
+A problemática dada era a necessidade de uma aplicação onde o cliente desse autorização para a empresa ter acesso aos seus dados. 
+
+### Solução:
+Como solução, criamos uma aplicação intuitiva de fácil entendimento para que os clientes dessem a autorização por meio de email, senha ou tokens para que os sistemas da TrackCash pudessem ter acesso a: 
+- apis e planilhas automatizadas;
+E assim o sistema salvaria as informações de usuários, senhas e tokens.
+
+### Projeto desenvolvido: 
+
+
+
+- [Acesse o Projeto: ](https://github.com/TechForce-ADS/TrackCash)
+
+#### Tecnologias Utilizadas
+Como principal tecnologia usamos HTML Python e JavaScript.
+Tecnologias Utilizadas:
+- JavaScript - Linguagem de programação principal do projeto;
+- Python - Linguagem de programação auxiliar;
+- Java Swing - Conjunto de biblioteca e ferramentas;
+- NetBeans - Ambiente de desenvolvimento integrado;
+- MySQL - Banco de dados; 
+- Canva - Usado para prototipação; 
+- Pacote Office - Gestão da equipe; 
+- Git - Versionamento do código; 
+- GitHub - Armazenamento do projeto e registro de documentação; 
+- Discord - Ferramenta de comunicação da equipe;
+- Slack - Ferramenta de comunicação entre Product Owner e cliente.
+
+
+
+#### Contribuições Pessoais:
+Neste projeto pude dar continuidade e me aprofundar na função de Product Owner (PO) tendo como pricipais funções:
+
+ - Entender a necessidade do cliente sendo o que ele queria e entendia como essencial ao seu sistema, e agora não um professor da faculdade e sim um representante legal de uma empresa não fictícia;
+ - Reuniões semanais para apresentar ao cliente o progresso e ouvir suas especificações;
+ - Mostrar ao grupo qual era o caminho a ser seguido, afinal eu era a conexão DEV'S - cliente;
+ - Compreender mais sobre o sistema da TrackCash e sobre seus metódos de negócio principalmente de validação de informações;
+ - Auxílio na parte visual (front-end);
+ - Auxílio no Back-End;
+ - Apresentação final.
+
+# Hard Skills:
+
+ - Apresentação em público;
+ - Relacionamento interpessoal;
+ - HTML e CSS;
+ - Pacote Office;
+ - Gestão de Código e Colaboração;
+ - GitHub;
+ - Desenvolvimento Front-end;
+ - Desenvolvimento de Back-End;
+ - Python;
+ - JavaScript;
+ - Manipulação e Consulta de Dados;
+ - MYSQL;
+ - Análise de requisitos;
+ - Slack.
+
+# Soft Skills:
+
+ - Proatividade;
+ - Comunicação;
+ - Trabalho em Equipe;
+ - Colaboração;
+ - Liderança;
+ - Visão de negócios;
+ - Visão empresarial;
+
+
+## Em 2023-1
+### Parceiro Acadêmico
+
+VISIONA - Tecnologia Espacial 
+A empresa foi fundada em 2012 e surgiu como uma parceria estratégica entre a Embraer Defesa & Segurança e a Telebras com foco na integração de sistemas espaciais e na oferta de serviços via satélite.
+
+
+### Projeto:
+No terceiro semestre desenvolvemos um sistema de gerenciamento de usuários com autenticação e autorização para acesso de serviços, assim havendo divisão entre as contas de usuários com diferentes permissões e dashboards com dados gerais do sistema. 
+
+
+### Problema:
+A problemática apresentada era a falta de um sistema de gerenciamento de usuários com autenticação e autorização das permissões necessárias para o uso de seus serviços, assim o sistema teria que permitir a adição, edição, exclusão e visualização dos usuários e gerar dashboards de determinados dados e separar quem podia ver o dashboard, quem podia excluir alguma informação e quem não poderia. 
+ 
+
+### Solução:
+Como solução criamos uma interface de gerenciamento intuitivo seguindo os parâmetros dados pelo cliente. Podendo listar, adicionar, deletar, editar, atribuir permissões para os usuários. 
+
+### Projeto desenvolvido: 
+
+
+- [Acesse o projeto:](https://github.com/TechForce-ADS/Visiona)
+
+#### Tecnologias Utilizadas
+Como principal tecnologia usamos Postgres, JavaScript e TypeScript.
+Tecnologias Utilizadas:
+- NodeJS - Ambiente de execução;
+- JavaScript - Linguagem de programação usada no Front-end e Back-end; 
+- React - Biblioteca utilizada para o Front-End;
+- TypeScript - Linguagem de programação auxiliar;
+- Postgres - Banco de dados;
+- Canva - Usado para prototipação; 
+- Pacote Office - Gestão da equipe; 
+- Git - Versionamento do código; 
+- GitHub - Armazenamento do projeto e registro de documentação; 
+- Discord - Ferramenta de comunicação da equipe;
+- Slack - Ferramenta de comunicação entre Product Owner e cliente. 
+
+
+#### Contribuições Pessoais:
+Neste projeto eu pude ter o primeiro contato com a função de Desenvolvedor tendo como pricipais funções:
+
+- Desenvolvimento Front-End;
+- Desenvolvimento Back-End, não de forma autônoma;
+- Participação em reuniões de brainstorming;
+- Análise de requisitos com a equipe;
+- Colaboração com designers para implementar layouts e designs;
+- Teste e debugs;
+- Integração de APIs de terceiros para adicionar funcionalidades ao projeto;
+- Otimização de desempenho do código e da interface de usuário;
+- Manutenção contínua do software até sua entrega.
+
+#### Hard Skills:
+- Apresentação em público;
+- Relacionamento interpessoal;
+- HTML e CSS;
+- Pacote Office;
+- Gestão de Código e Colaboração;
+- GitHub;
+- Desenvolvimento Front-end;
+- Desenvolvimento de Back-End;
+- Python;
+- JavaScript;
+- Manipulação e Consulta de Dados;
+- MYSQL;
+- Análise de requisitos;
+- Slack;
+- GitHub;
+- BackEnd;
+- Prototipagem;
+- Análise de requisitos;
+- Demostração de resultados.
+
+#### Soft Skills:
+- Proatividade;
+- Comunicação;
+- Trabalho em Equipe;
+- Colaboração;
+- Liderança;
+- Visão de negócios;
+- Visão empresarial;
+- Empatia;
+- Comunicação;
+- Flexibilidade;
+- Solução de Problemas.
+
+
+## Em 2023-2
+### Parceiro Acadêmico
+
+GRENNEAT - Limpeza Sustentável 
+A Grenneat é uma empresa focada na criação de produtos de limpeza sustentável com o foco na sustentabilidade e economia circular dos produtos e comercialização. 
+
+
+### Projeto:
+No quarto semestre desenvolvemos um sistema web com regras de negócio complexas, com foco na economia circular, com objetivo de gerenciar a reciclagem de óleo vegetal usado. 
+O sistema foi utilizado para preparação e configuração de ambientes de produção e requeriu a criação de um gestor de crédito onde este gestor foi integrado a uma plataforma que permitiria a troca de créditos por produtos de limpeza fornecidos na loja virtual da Grenneat.
+
+### Problema:
+O problema se dava por conta de apenas 2% do óleo vegetal ser reciclado no Brasil, e a maioria ser descartado de forma irregular gerando impactos ambientais negativos.
+Apesar de existirem cooperativas e profissionais individuais que coletavam o óleo descartado, não havia um sistema eficaz para incentivar e gerenciar essa reciclagem de forma abrangente e eficiente.
+
+### Solução:
+Desenvolvemos um projeto que tinha o intuito de criar uma plataforma que incentivava a reciclagem por meio de um sistema de créditos que podiam ser trocados em produtos Grenneat. Os estabelecimentos cadastrados poderiam acumular créditos ao descartar o óleo vegetal usado, e trocar pro produtos do seu interesse na loja virtual Grenneat.
+Isso criava um ciclo de economia circular, onde o óleo descartado era reciclado para produzir saneantes, que por sua vez eram adquiridos pelos próprios participantes do sistema, promovendo a sustentabilidade e fechando o ciclo de produção e consumo e diminuindo o impacto negativo ambiental.
+
+### Projeto desenvolvido: 
+
+
+- [Acesse o projeto:](https://github.com/TechForce-ADS/Greenneat)
+- 
+
+#### Tecnologias Utilizadas:
+Como principal tecnologia usamos JavaScript, NodeJS e React Boostrap.
+Tecnologias Utilizadas:
+- NodeJS - Ambiente de execução;
+- JavaScript - Linguagem de programação usada no Front-end e Back-end; 
+- React - Biblioteca utilizada para o Front-End;
+- MySQL - Banco de dados usado para armazenar as informações;
+- Canva - Usado para prototipação; 
+- Pacote Office - Gestão da equipe; 
+- Git - Versionamento do código; 
+- GitHub - Armazenamento do projeto e registro de documentação; 
+- Discord - Ferramenta de comunicação da equipe;
+- Slack - Ferramenta de comunicação entre Product Owner e cliente. 
+
+
+#### Contribuições Pessoais:
+Nesse projeto atuei novamente como desenvolvedor com as principais funções:
+- Desenvolvimento Front-End;
+- Desenvolvimento Back-End;
+- Participação em reuniões de brainstorming;
+- Análise de requisitos com a equipe;
+- Colaboração com designers para implementar layouts e designs;
+- Teste e debugs;
+- Integração de APIs de terceiros para adicionar funcionalidades ao projeto;
+- Otimização de desempenho do código e da interface de usuário;
+- Manutenção contínua do software até sua entrega.
+
+#### Hard Skills:
+- Apresentação em público;
+- Relacionamento interpessoal;
+- HTML e CSS;
+- Pacote Office;
+- Gestão de Código e Colaboração;
+- GitHub;
+- Desenvolvimento Front-end;
+- Desenvolvimento de Back-End;
+- Python;
+- JavaScript;
+- Manipulação e Consulta de Dados;
+- MYSQL;
+- Análise de requisitos;
+- Slack;
+- GitHub;
+- BackEnd;
+- Prototipagem;
+- Análise de requisitos;
+- Demostração de resultados.
+
+#### Soft Skills:
+- Proatividade;
+- Comunicação;
+- Trabalho em Equipe;
+- Colaboração;
+- Liderança;
+- Visão de negócios;
+- Visão empresarial;
+- Empatia;
+- Comunicação;
+- Flexibilidade;
+- Solução de Problemas.
+
+
+</p>
+
