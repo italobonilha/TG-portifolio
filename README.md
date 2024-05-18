@@ -59,8 +59,6 @@ Visando o nosso aprendizado de forma interativa e prática o projeto também nos
 
 # Solução: 
 
-<img src="https://github.com/TechForce-ADS/imagens/blob/main/logo%20dispvag.jpeg" width="200" height="200">
-
 - Link do projeto: 
 ```
 https://github.com/TechForce-ADS/DispVag
