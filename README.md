@@ -152,10 +152,9 @@ E assim o sistema salvaria as informações de usuários, senhas e tokens.
 - [Acesse o Projeto: ](https://github.com/TechForce-ADS/TrackCash)
 
 #### Tecnologias Utilizadas
-Como principal tecnologia usamos HTML Python e JavaScript.
+Como principal tecnologia usamos HTML e JAVA.
 Tecnologias Utilizadas:
-- JavaScript - Linguagem de programação principal do projeto;
-- Python - Linguagem de programação auxiliar;
+- JAVA - Linguagem de programação principal do projeto;
 - Java Swing - Conjunto de biblioteca e ferramentas;
 - NetBeans - Ambiente de desenvolvimento integrado;
 - MySQL - Banco de dados; 
