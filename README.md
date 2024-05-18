@@ -1,5 +1,7 @@
 # Ítalo Bonilha Nascimento
 
+<img src="eu.jpeg" width="200" height="200">
+
 ## Contatos:
 
 > Linkedin
