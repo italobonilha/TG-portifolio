@@ -103,7 +103,7 @@ Neste projeto eu pude ter o primeiro contato com a função de Product Owner (PO
 A metodologia ágil e a divisão de funções permitiu a transição de responsabilidades dentro da equipe trazendo uma abordagem flexível e adaptável possibilitando a entrega de um produto final satisfatório e de acordo com as expectativas do cliente.
 
 
-# Hard Skills
+# Hard Skills:
 
  - Apresentação em público;
  - Relacionamento interpessoal;
@@ -118,7 +118,7 @@ A metodologia ágil e a divisão de funções permitiu a transição de responsa
  - Manipulação e Consulta de Dados;
  - MYSQL.
 
-# Soft Skills
+# Soft Skills:
 
  - Proatividade;
  - Comunicação;
@@ -128,8 +128,7 @@ A metodologia ágil e a divisão de funções permitiu a transição de responsa
 
 # 2022-2
 # Parceiro Acadêmico
-
-TRACKCASH
+ - TRACKCASH
 A TrackCash é uma empresa focada na gestão financeira, projetada para ajudar empresas de diferentes tamanhos e setores para organizar suas finanças. Oferecendo uma solução de negócios (B2B) com intuito de conciliar vendas e pagamento de diversas plataformas de comércio, como e-commerce, marketplace e lojas físicas, oferecendo aos seus clientes um painel para que eles possam visualizar e gerenciar transações finaceiras de suas plataformas de vendas. 
 
 
@@ -208,8 +207,7 @@ Neste projeto pude dar continuidade e me aprofundar na função de Product Owner
 
 ## Em 2023-1
 ### Parceiro Acadêmico
-
-VISIONA - Tecnologia Espacial 
+ - VISIONA - Tecnologia Espacial 
 A empresa foi fundada em 2012 e surgiu como uma parceria estratégica entre a Embraer Defesa & Segurança e a Telebras com foco na integração de sistemas espaciais e na oferta de serviços via satélite.
 
 
@@ -295,8 +293,7 @@ Neste projeto eu pude ter o primeiro contato com a função de Desenvolvedor ten
 
 ## Em 2023-2
 ### Parceiro Acadêmico
-
-GRENNEAT - Limpeza Sustentável 
+ - GRENNEAT - Limpeza Sustentável 
 A Grenneat é uma empresa focada na criação de produtos de limpeza sustentável com o foco na sustentabilidade e economia circular dos produtos e comercialização. 
 
 
