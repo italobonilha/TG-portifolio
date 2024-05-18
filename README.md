@@ -128,7 +128,9 @@ A metodologia ágil e a divisão de funções permitiu a transição de responsa
 
 # 2022-2
 # Parceiro Acadêmico
- - TRACKCASH
+ - TRACKCASH.
+
+
 A TrackCash é uma empresa focada na gestão financeira, projetada para ajudar empresas de diferentes tamanhos e setores para organizar suas finanças. Oferecendo uma solução de negócios (B2B) com intuito de conciliar vendas e pagamento de diversas plataformas de comércio, como e-commerce, marketplace e lojas físicas, oferecendo aos seus clientes um painel para que eles possam visualizar e gerenciar transações finaceiras de suas plataformas de vendas. 
 
 
@@ -315,7 +317,7 @@ Isso criava um ciclo de economia circular, onde o óleo descartado era reciclado
 
 
 - [Acesse o projeto:](https://github.com/TechForce-ADS/Greenneat)
-- 
+
 
 #### Tecnologias Utilizadas:
 Como principal tecnologia usamos JavaScript, NodeJS e React Boostrap.
