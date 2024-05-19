@@ -17,13 +17,18 @@ https://github.com/italobonilha
 
 ## Introdução
 
-Me chamo Ítalo Bonilha, tenho 20 anos e atualmente sou estudante do 5º Semestre de ADS na FATEC São José dos Campos - Prof. Jessen Vidal.
+Olá!
+Me chamo Ítalo Bonilha, tenho 20 anos e atualmente sou estudante do 5º Semestre de Análise e Desenvolvimento de Sistemas (ADS) na FATEC São José dos Campos - Prof. Jessen Vidal. 
 
-Este portfólio acadêmico visa atender os requisitos do TG e mostrar um pouco mais não só sobre mim como também sobre meus projetos que foram e são desenvolvidos ao longo do período universitário.
+Escolhi essa faculdade pois vi nela a oportunidade de seguir aprofundando meus conhecimentos em uma área da qual eu ja estava inserido, afinal, meus 3 anos de ensino médio foram cursados na ETEC onde o curso técnico realizado juntamente com o ensino médio era o de Desenvolvimento de Sistemas (DS), uma área crescente no mercado atual que gera diversas oportunidades e pode entregar uma boa qualidade de vida, tanto no âmbito profissional, quanto no pessoal.
 
-Neste portifólio se encontram projetos realizados no chamado "Aprendizado por Projeto Integrador (API)", um projeto proposto pela faculdade onde nós alunos nos conectamos a empresas reais e fornecemos a elas soluções a um problema que elas enfrentam.
+Sempre tive interesse em computadores, redes, internet etc, a tecnologia sempre me atraiu e ao longo dos anos pude entender como tudo funciona, e me aperfeiçoar em como fazer tudo funcionar. Interessante como as coisas se completam e como há sempre o que aprender, onde tudo se torna possível aquele que sabe como realizar.
 
-Visando o nosso aprendizado de forma interativa e prática o projeto também nos insere a conceitos do mercado de trabalho como:
+Este portfólio acadêmico visa atender os requisitos do Trabalho de Graduação (TG) e mostrar um pouco mais não só sobre mim, como também sobre meus projetos que foram e estão sendo desenvolvidos ao longo desse período universitário.
+
+Neste portfólio encontram-se projetos realizados na iniciativa "Aprendizado por Projeto Integrador (API)", um projeto proposto pela faculdade onde nós, alunos, nos conectamos a empresas reais e fornecemos a elas soluções para problemas que enfrentam.
+
+Visando o nosso aprendizado de forma interativa e prática, o projeto também nos insere em conceitos do mercado de trabalho, como:
 - Metodologia Ágil;
 - Divisão em sprints;
 - Divisão de funções sendo elas Scrum Master (SM),Product Owner (PO) e grupo DEV;
@@ -36,7 +41,7 @@ Visando o nosso aprendizado de forma interativa e prática o projeto também nos
  - FATEC SÃO JOSÉ DOS CAMPOS - PROF. JASSEN VIDAL.
 
 
- A Faculdade de Tecnologia Prof. Jessen Vidal (FATECSJC) de São José dos Campos, faz parte de um seleto e importante grupo de instituições brasileiras de ensino superior de tecnologia do estado de São Paulo, pertencentes ao Centro Estadual de Educação Tecnológica Paula Souza (CEETEPS), a instituição que possui excelência em seus cursos de graduação tem como objetivo formar profissionais nas áreas de atuação esecolhida de forma mais específica.
+ A Faculdade de Tecnologia Prof. Jessen Vidal (FATEC SJC) de São José dos Campos, faz parte de um seleto e importante grupo de instituições brasileiras de ensino superior de tecnologia do estado de São Paulo, pertencentes ao Centro Estadual de Educação Tecnológica Paula Souza (CEETEPS), a instituição que possui excelência em seus cursos de graduação tem como objetivo formar profissionais nas áreas de atuação esecolhida de forma mais específica.
 
  No primeiro semestre a FATEC Prof. Jessen Vidal se responsabilizou por introduzir aos novos alunos o modelo de avaliação e aprendizado denominado API, onde eles seriam a empresa parceira a fornecer o desafio a ser cumprido ao decorrer do semestre para que fôssemos familiarizados e pudéssemos trabalhar com empresas reais ao decorrer dos semestres que viriam.
 
@@ -45,7 +50,7 @@ Visando o nosso aprendizado de forma interativa e prática o projeto também nos
 # Problema:
 
  O problema proposto era um sistema web para facilitar o processo de catalogar vagas de diversas profissões com ênfase na área de TI, visando a facilidade do usuário em achar a vaga de seu interesse.
- Configurando métricas em pontos como de conhecimentos, habilidades e competências visualmente o sistema deveria ter informações estratégicas sendo postas em gráficos, com maior foco na facilidade de usabilidade do cliente e seus usuários, que neste projeto em sua maioria seriam pessoas de qualquer idade e qualquer tipo de formação em busca de um emprego.
+ Configurando métricas em pontos como de conhecimentos, habilidades e competências, visualmente o sistema deveria ter informações estratégicas sendo postas em gráficos, com maior foco na facilidade de usabilidade do cliente e seus usuários, que neste projeto em sua maioria seriam pessoas de qualquer idade e qualquer tipo de formação em busca de um emprego.
 
  O projeto conta com toda uma documentação de desenvolvimento inserida no GitHub apresentando todos os processos necessários para a fidelização do pedido do cliente.
 
@@ -58,22 +63,14 @@ Visando o nosso aprendizado de forma interativa e prática o projeto também nos
 - Apresentação presencial do projeto.
 
 # Solução: 
+- [Acesse o Projeto: ](https://github.com/TechForce-ADS/DispVag)
 
-- Link do projeto: 
-```
-https://github.com/TechForce-ADS/DispVag
-```
 
  A colaboração entre grupo de desenvolvimento e cliente foi essencial para estabelecermos a criação do site que fosse capaz de segmentar vagas específicas da área de TI das demais. Este projeto foi batizado como DISPVAG (acróstico de VAGA DISPONÍVEL invertendo as palavras e usando as primeiras letras, "DISPonível VAGa") e foi apresentado como uma solução simples, porém eficaz e de fácil usabilidade para os usuários pelos alunos recém-ingressos na FATEC de São José dos Campos no primeiro semestre de 2021.
 
  O DISPVAG foi projetado para atender às necessidades crescentes do mercado de trabalho, proporcionando aos candidatos uma experiência de busca de emprego mais fácil, personalizada e eficiente, e para atingir seu objetivo foram fornecidos recursos de filtragem avançados, onde os usuários podem facilmente encontrar as vagas que correspondem às suas habilidades e interesses com um sistema que foi desenvolvido com uma interface intuitíva e amigável, pensando na melhor experiência pro usuário.
 
  Ao seu lançamento, DISPVAG recebeu um feedback positivo tanto de empresas que vieram a feira técnologica prestigiar e conhecer os projetos desenvolvidos pelos alunos no semestre quanto por colegas de sala e professores, findando seu objetivo sendo classificado como um site de ótima curva de aprendizagem por seu fácil entendimento e navegabilidade que realmente facilita e entrega o proposto no quesito usabilidade e gerenciamento de vagas podendo ser implementado de forma eficaz como uma solução viável no cenário de fornecimento de vagas de emprego na região do Vale do Paraíba.
-
-
-> VIDEO DO PROJETO:
-
-<img src="https://github.com/TechForce-ADS/DispVag/blob/main/Projeto/Imagens_API/video3sprint3.gif" >
 
 
 # Tecnologias Utilizadas:
@@ -94,9 +91,9 @@ https://github.com/TechForce-ADS/DispVag
 Neste projeto eu pude ter o primeiro contato com a função de Product Owner (PO) tendo como pricipais funções:
 
  - Entender a necessidade do cliente sendo o que ele queria e entendia como essencial ao seu sistema;
- - Fazer reuniões para apresentar o progresso do projeto;
+ - Fazer reuniões para apresentar o progresso do projeto, e entender as necessidades do mesmo;
  - Mostrar ao grupo qual era o caminho a ser seguido, afinal eu era a conexão DEV'S - cliente;
- - A pesquisa de vagas reais para serem inseridas no sistema;
+ - A pesquisa de vagas reais para serem inseridas no sistema junto com cursos e métricas;
  - Auxílio na parte visual (front-end);
  - Apresentação final do projeto para o cliente e turma.
 
@@ -105,26 +102,25 @@ A metodologia ágil e a divisão de funções permitiu a transição de responsa
 
 # Hard Skills:
 
- - Apresentação em público;
- - Relacionamento interpessoal;
- - HTML e CSS;
- - Pacote Office;
- - Gestão de Código e Colaboração;
- - GitHub;
- - Desenvolvimento Front-end;
- - Desenvolvimento de Backend e suas funcionalidades porém não de forma autônoma;
- - Python;
- - JavaScript;
- - Manipulação e Consulta de Dados;
- - MYSQL.
+ - HTML e CSS, onde fiz com autônomia;
+ - Pacote Office, onde fiz com autônomia;
+ - Gestão de Código e Colaboração, onde fiz porém não sabia fazer de forma autônoma;
+ - GitHub, onde fiz porém não sabia fazer de forma autônoma;
+ - Desenvolvimento Front-end, onde fiz porém não sabia fazer de forma autônoma;
+ - Python, onde fiz porém não sabia fazer de forma autônoma;
+ - JavaScript, onde fiz porém não sabia fazer de forma autônoma;
+ - Manipulação, Criação e Consulta de Dados, onde fiz porém não sabia fazer de forma autônoma;
+ - MYSQL, onde fiz porém não sabia fazer de forma autônoma.
 
 # Soft Skills:
 
- - Proatividade;
- - Comunicação;
- - Trabalho em Equipe;
- - Colaboração;
- - Liderança.
+ - Apresentação em público, pois foi necessária a apresentação para a turma e para o cliente;
+ - Relacionamento interpessoal, pois foi necessário me relacionar com meus colegas de equipe e também professores;
+ - Proatividade, pois como era o primeiro semestre, nenhum de nós tinha um conhecimento avançado se fazendo necessário a proatividade para aprender e desenvolver novas habilidades;
+ - Comunicação, pois a todo momento era necessária a comunicação entre o grupo, para discutir melhorias, alterações, ideias e com o professor que fazia o papel do cliente onde expunha o que era necessário e desnecessário ao seu ver;
+ - Trabalho em Equipe, pois não se faz nada grande sozinho, e sem uma equipe de qualidade igual a que nos esforçamos para ser, não teriamos chegado ao objetivo final;
+ - Colaboração, a equipe toda entendeu que juntos somos melhores, e ao longo dos meses fomos aprendendo que se não colaborassemos entre nós, não chegariamos a lugar nenhum, era frequente os casos onde nos ajudavamós, pois sendo diferentes, podiamos ajudar uns aos outro a ser melhor e da mesma forma em que pude ajudar, também fui muito ajudado;
+ - Liderança, pois fiz o papel de PO e estava a frente do processo de comunicação entre grupo e cliente, onde foi necesária a minha liderança onde eu desbravava o caminho junto ao cliente e mostrava para a minha equipe para que eles pudessem me seguir e chegarmos juntos ao nosso objetivo.
 
 # 2022-2
 # Parceiro Acadêmico
@@ -135,21 +131,18 @@ A TrackCash é uma empresa focada na gestão financeira, projetada para ajudar e
 
 
 ### Projeto:
-No segundo semestre tivemos como objetivo desenvolver um CRUD para que eles pudessem atender a demanda dos seus clientes que são vendedores de lojas onlines e fisicas, afim de  realizar o processo de conciliação finaceira. 
+No segundo semestre tivemos como objetivo desenvolver um CRUD para que eles pudessem atender a demanda dos seus clientes que são vendedores de lojas onlines e físicas, afim de  realizar o processo de conciliação finaceira. 
 
 ### Problema:
 A problemática dada era a necessidade de uma aplicação onde o cliente desse autorização para a empresa ter acesso aos seus dados. 
 
 ### Solução:
+- [Acesse o Projeto: ](https://github.com/TechForce-ADS/TrackCash)
+
+
 Como solução, criamos uma aplicação intuitiva de fácil entendimento para que os clientes dessem a autorização por meio de email, senha ou tokens para que os sistemas da TrackCash pudessem ter acesso a: 
 - apis e planilhas automatizadas;
 E assim o sistema salvaria as informações de usuários, senhas e tokens.
-
-### Projeto desenvolvido: 
-
-
-
-- [Acesse o Projeto: ](https://github.com/TechForce-ADS/TrackCash)
 
 #### Tecnologias Utilizadas
 Como principal tecnologia usamos HTML e JAVA.
@@ -174,36 +167,35 @@ Neste projeto pude dar continuidade e me aprofundar na função de Product Owner
  - Reuniões semanais para apresentar ao cliente o progresso e ouvir suas especificações;
  - Mostrar ao grupo qual era o caminho a ser seguido, afinal eu era a conexão DEV'S - cliente;
  - Compreender mais sobre o sistema da TrackCash e sobre seus metódos de negócio principalmente de validação de informações;
- - Auxílio na parte visual (front-end);
+ - Auxílio no Front-End;
  - Auxílio no Back-End;
  - Apresentação final.
 
 # Hard Skills:
 
- - Apresentação em público;
- - Relacionamento interpessoal;
- - HTML e CSS;
- - Pacote Office;
- - Gestão de Código e Colaboração;
- - GitHub;
- - Desenvolvimento Front-end;
- - Desenvolvimento de Back-End;
- - Python;
- - JavaScript;
- - Manipulação e Consulta de Dados;
- - MYSQL;
- - Análise de requisitos;
- - Slack.
+ - HTML e CSS, onde fiz com autônomia;
+ - Pacote Office, onde fiz com autônomia;
+ - Gestão de Código e Colaboração, onde aprendi a fazer com autônomia;
+ - NetBeans, não de forma autônoma;
+ - GitHub, onde fiz porém não de forma autônoma;
+ - Desenvolvimento Front-end, onde aprendi a fazer de forma autônoma;
+ - Desenvolvimento de Back-End, onde fiz porém não de forma autônoma;
+ - JavaScript, onde fiz porém não de forma autônoma;
+ - Manipulação, Criação e Consulta de Dados, onde estava aprendendo a fazer de forma autônoma;
+ - MYSQL, onde fiz porém ainda não de forma autônoma;
+ - Análise de requisitos, onde fiz com autônomia;
+ - Slack, onde fiz com autônomia.
 
 # Soft Skills:
 
- - Proatividade;
- - Comunicação;
- - Trabalho em Equipe;
- - Colaboração;
- - Liderança;
- - Visão de negócios;
- - Visão empresarial;
+ - Apresentação em público, pois foi necessário que eu desenvolvesse a habilidade de expressar ideias claramente e de maneira envolvente, usando tanto a fala quanto gestos, expressões faciais e postura corporal para apresentar o projeto ao cliente e a turma;
+ - Relacionamento interpessoal, pois foi necessário me relacionar com meus colegas de equipe, professores e também gestores da TrackCash;
+ - Proatividade, pois se fez necessária a autônomia e antecipação para que pudessemos resolver os problemas apresentados, de forma que nos adiantassemos e sanassemos alguns problemas antes deles crescerem e se tornarem gradnes impecilios.
+ - Comunicação, pois a todo momento era necessária a comunicação entre o grupo, para discutir melhorias, alterações, ideias e com o cliente onde ele expunha o que era necessário e desnecessário ao seu ver;
+ - Colaboração, pois a ajuda constante entre nós membros do grupo se fez cada vez mais necessária pois as dificuldades apareciam e aumentavam cada vez mais;
+ - Liderança, pois fiz novamente fiz o papel de PO e estava a frente do processo de comunicação entre grupo e cliente, onde a minha liderança se fez mais necessária pois agora não era mais um professor e sim um cliente de uma emrpesa real e eu precisava mostrar a minha equipe o caminho a se seguir.
+ - Visão de negócios, pois eu precisei entender os negócios do meu cliente e como ele enxergava o mundo;
+ - Visão empresarial, pois eu precisei me aprofundar na gestão empresarial e nas responsabilidades que uma empresa tem para com seu cliente;
 
 
 ## Em 2023-1
@@ -222,12 +214,10 @@ A problemática apresentada era a falta de um sistema de gerenciamento de usuár
  
 
 ### Solução:
+- [Acesse o projeto:](https://github.com/TechForce-ADS/Visiona)
+
 Como solução criamos uma interface de gerenciamento intuitivo seguindo os parâmetros dados pelo cliente. Podendo listar, adicionar, deletar, editar, atribuir permissões para os usuários. 
 
-### Projeto desenvolvido: 
-
-
-- [Acesse o projeto:](https://github.com/TechForce-ADS/Visiona)
 
 #### Tecnologias Utilizadas
 Como principal tecnologia usamos Postgres, JavaScript e TypeScript.
@@ -249,48 +239,34 @@ Tecnologias Utilizadas:
 Neste projeto eu pude ter o primeiro contato com a função de Desenvolvedor tendo como pricipais funções:
 
 - Desenvolvimento Front-End;
-- Desenvolvimento Back-End, não de forma autônoma;
+- Desenvolvimento Back-End;
 - Participação em reuniões de brainstorming;
 - Análise de requisitos com a equipe;
 - Colaboração com designers para implementar layouts e designs;
 - Teste e debugs;
-- Integração de APIs de terceiros para adicionar funcionalidades ao projeto;
 - Otimização de desempenho do código e da interface de usuário;
 - Manutenção contínua do software até sua entrega.
 
 #### Hard Skills:
-- Apresentação em público;
-- Relacionamento interpessoal;
-- HTML e CSS;
-- Pacote Office;
-- Gestão de Código e Colaboração;
-- GitHub;
-- Desenvolvimento Front-end;
-- Desenvolvimento de Back-End;
-- Python;
-- JavaScript;
-- Manipulação e Consulta de Dados;
-- MYSQL;
-- Análise de requisitos;
-- Slack;
-- GitHub;
-- BackEnd;
-- Prototipagem;
-- Análise de requisitos;
-- Demostração de resultados.
+- Gestão de Código, de forma autônoma;
+- NodeJs, não de forma autônoma;
+- GitHub, não de forma autônoma;
+- Desenvolvimento Front-end, de forma autônoma;
+- Desenvolvimento de Back-End, não de forma autônoma;
+- JavaScript, de forma autônoma;
+- Manipulação, Criação e Consulta de Dados, de forma autônoma;
+- MYSQL, de forma autônoma;
+- Análise de requisitos, de forma autônoma;
+- Slack, de forma autônoma;
 
 #### Soft Skills:
-- Proatividade;
-- Comunicação;
-- Trabalho em Equipe;
-- Colaboração;
-- Liderança;
-- Visão de negócios;
-- Visão empresarial;
-- Empatia;
-- Comunicação;
-- Flexibilidade;
-- Solução de Problemas.
+- Proatividade, sempre estar em movimento para poder trazer as melhores soluções, com o tempo aprendi que quem se adianta, governa;
+- Comunicação, pude melhora minha comunicação podendo aprender com as sprints anteriores, trazendo ideias mais claras trazendo uma comunicação mais frequente e clara;
+- Trabalho em Equipe, com o tempo fui capaz de entender como minha equipe funcionava e ver qual modo de trabalho era mais efetivo, agora não tendo mais um papel de liderança pude ver como é importante ser um bom líder, afinal, em uma equipe é necessário um líder, um que saiba ouvir sua equipe que as vezes vê coisas que ele não viu, para que assim possa definir a melhor forma de seguir e não de um chefe, que apenas quer dar ordens;
+- Colaboração, aprendi muito com as sprints passadas e cada vez me achava capaz de fazer tudo sozinho, percebi o quanto é importante ter uma equipe e rede de apoio, pois é normal não saber tudo, e aprendi ser normal também perguntar e pedir ajuda;
+- Empatia, algumas dificuldades não representam o mesmo tamanho para todos, tive que entender isso e me colocar no lugar do outro, muitas vezes encontrei desafios que pareceram gigantes para mim, porém meus colegas me mostraram não ser e através dessa empatia para comigo eu puder ter empatia para com eles, e mostrar que alguns desafios dos quais eles acharam gigantes não eram, e descobri que nada é maior que uma equipe que se une;
+- Flexibilidade, é importante não focarmos em só uma função, temos sim que dar prioridades para nossas responsabilidades pré estabelecidas, porém conhecimento não ocupa espaço, e quanto mais se aprende mais se sabe;
+- Solução de Problemas, problemas só são problemas até que se achem uma solução, aprendi ser importante seguir em frente pois por mais dificil que uma situação seja, com empenho e foco chegamos a uma solução.
 
 
 ## Em 2023-2# Parceiro Acadêmico
@@ -301,21 +277,19 @@ A Grenneat é uma empresa focada na criação de produtos de limpeza sustentáve
 
 
 ### Projeto:
-No quarto semestre desenvolvemos um sistema web com regras de negócio complexas, com foco na economia circular, com objetivo de gerenciar a reciclagem de óleo vegetal usado. 
-O sistema foi utilizado para preparação e configuração de ambientes de produção e requeriu a criação de um gestor de crédito onde este gestor foi integrado a uma plataforma que permitiria a troca de créditos por produtos de limpeza fornecidos na loja virtual da Grenneat.
+No quarto semestre desenvolvemos um sistema web com regras de negócio complexas, com foco na economia circular, com objetivo de gerenciar a reciclagem de óleo vegetal. 
+O sistema requeriu a criação de um gestor de crédito cabia ele permitir a troca de créditos por produtos de limpeza fornecidos na loja virtual Grenneat.
 
 ### Problema:
-O problema se dava por conta de apenas 2% do óleo vegetal ser reciclado no Brasil, e a maioria ser descartado de forma irregular gerando impactos ambientais negativos.
-Apesar de existirem cooperativas e profissionais individuais que coletavam o óleo descartado, não havia um sistema eficaz para incentivar e gerenciar essa reciclagem de forma abrangente e eficiente.
+O problema se dava por que apenas 2% do óleo vegetal é reciclado no Brasil, e a maioria é descartado de forma irregular gerando impactos ambientais negativos.
+Apesar de existirem iniciativas que coletam o óleo descartado, não havia um sistema eficaz para incentivar e gerenciar essa reciclagem de forma abrangente e eficiente.
 
 ### Solução:
+- [Acesse o projeto:](https://github.com/TechForce-ADS/Greenneat)
+
+
 Desenvolvemos um projeto que tinha o intuito de criar uma plataforma que incentivava a reciclagem por meio de um sistema de créditos que podiam ser trocados em produtos Grenneat. Os estabelecimentos cadastrados poderiam acumular créditos ao descartar o óleo vegetal usado, e trocar pro produtos do seu interesse na loja virtual Grenneat.
 Isso criava um ciclo de economia circular, onde o óleo descartado era reciclado para produzir saneantes, que por sua vez eram adquiridos pelos próprios participantes do sistema, promovendo a sustentabilidade e fechando o ciclo de produção e consumo e diminuindo o impacto negativo ambiental.
-
-### Projeto desenvolvido: 
-
-
-- [Acesse o projeto:](https://github.com/TechForce-ADS/Greenneat)
 
 
 #### Tecnologias Utilizadas:
@@ -341,43 +315,26 @@ Nesse projeto atuei novamente como desenvolvedor com as principais funções:
 - Análise de requisitos com a equipe;
 - Colaboração com designers para implementar layouts e designs;
 - Teste e debugs;
-- Integração de APIs de terceiros para adicionar funcionalidades ao projeto;
 - Otimização de desempenho do código e da interface de usuário;
 - Manutenção contínua do software até sua entrega.
 
 #### Hard Skills:
-- Apresentação em público;
-- Relacionamento interpessoal;
-- HTML e CSS;
-- Pacote Office;
-- Gestão de Código e Colaboração;
-- GitHub;
-- Desenvolvimento Front-end;
-- Desenvolvimento de Back-End;
-- Python;
-- JavaScript;
-- Manipulação e Consulta de Dados;
-- MYSQL;
-- Análise de requisitos;
-- Slack;
-- GitHub;
-- BackEnd;
-- Prototipagem;
-- Análise de requisitos;
-- Demostração de resultados.
+- HTML e CSS, de forma autônoma;
+- NodeJs, de forma autônoma
+- Gestão de Código e Colaboração, de forma autônoma;
+- GitHub, de forma autônoma;
+- Desenvolvimento Front-end, de forma autônoma;
+- Desenvolvimento de Back-End, não de forma autônoma;
+- JavaScript, de forma autônoma;
+- MYSQL, de forma autônoma;
+- Análise de requisitos, de forma autônoma;
 
 #### Soft Skills:
-- Proatividade;
-- Comunicação;
-- Trabalho em Equipe;
-- Colaboração;
-- Liderança;
-- Visão de negócios;
-- Visão empresarial;
-- Empatia;
-- Comunicação;
-- Flexibilidade;
-- Solução de Problemas.
+- Proatividade, quanto mais avançamos percebi que mais se faz necessária a proatividade, resultados não chegam em nossas mãos, temos que ir busca-los;
+- Comunicação, sempre importante aprimorar aquilo que nos eleva, comunicação é uma skill que eu acredito ser essencial para trabalho em equipe devendo sempre ser zelada e melhorada;
+- Trabalho em Equipe, como aprendido ao decorrer de todas as sprints, trabalho em equipe é essencial e é importante zelar pelo bom relacionamento entre os membros;
+- Colaboração, quem ajuda 1 ajuda 2, era uma frase comumente usada em nosso grupo, para nos lembrar que a colaboração mutúa é útil a todos;
+- Empatia, nessa sprint pude desenvolver a empatia mas dessa vez não somente com as pessoas da equipe, e sim com o planeta do qual vivemos, onde é fundamental nosso zelo para com ele;
 
 
 </p>
