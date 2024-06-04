@@ -102,8 +102,8 @@ A metodologia ágil e a divisão de funções permitiu a transição de responsa
 
 # Hard Skills:
 
- - HTML e CSS, onde fiz com autônomia;
- - Pacote Office, onde fiz com autônomia;
+ - HTML e CSS, onde fiz com autonomia;
+ - Pacote Office, onde fiz com autonomia;
  - Gestão de Código e Colaboração, onde fiz porém não sabia fazer de forma autônoma;
  - GitHub, onde fiz porém não sabia fazer de forma autônoma;
  - Desenvolvimento Front-end, onde fiz porém não sabia fazer de forma autônoma;
@@ -116,10 +116,10 @@ A metodologia ágil e a divisão de funções permitiu a transição de responsa
 
  - Apresentação em público, pois foi necessária a apresentação para a turma e para o cliente;
  - Relacionamento interpessoal, pois foi necessário me relacionar com meus colegas de equipe e também professores;
- - Proatividade, pois como era o primeiro semestre, nenhum de nós tinha um conhecimento avançado se fazendo necessário a proatividade para aprender e desenvolver novas habilidades;
+ - Proatividade, pois como era o primeiro semestre, nenhum de nós tinha um conhecimento avançado se fazendo necessára a proatividade para aprender e desenvolver novas habilidades;
  - Comunicação, pois a todo momento era necessária a comunicação entre o grupo, para discutir melhorias, alterações, ideias e com o professor que fazia o papel do cliente onde expunha o que era necessário e desnecessário ao seu ver;
- - Trabalho em Equipe, pois não se faz nada grande sozinho, e sem uma equipe de qualidade igual a que nos esforçamos para ser, não teriamos chegado ao objetivo final;
- - Colaboração, a equipe toda entendeu que juntos somos melhores, e ao longo dos meses fomos aprendendo que se não colaborassemos entre nós, não chegariamos a lugar nenhum, era frequente os casos onde nos ajudavamós, pois sendo diferentes, podiamos ajudar uns aos outro a ser melhor e da mesma forma em que pude ajudar, também fui muito ajudado;
+ - Trabalho em Equipe, pois sem o esforço para trabalharmos juntos não teriamos chego ao objetivo final;
+ - Colaboração, ao longo dos meses fomos aprendendo que se não colaborassemos entre nós não chegariamos a lugar nenhum, era frequente os casos onde nos ajudavamós pois sendo diferentes, podiamos ajudar uns aos outro a ser melhor e da mesma forma em que pude ajudar, também fui muito ajudado;
  - Liderança, pois fiz o papel de PO e estava a frente do processo de comunicação entre grupo e cliente, onde foi necesária a minha liderança onde eu desbravava o caminho junto ao cliente e mostrava para a minha equipe para que eles pudessem me seguir e chegarmos juntos ao nosso objetivo.
 
 # 2022-2
@@ -173,9 +173,9 @@ Neste projeto pude dar continuidade e me aprofundar na função de Product Owner
 
 # Hard Skills:
 
- - HTML e CSS, onde fiz com autônomia;
- - Pacote Office, onde fiz com autônomia;
- - Gestão de Código e Colaboração, onde aprendi a fazer com autônomia;
+ - HTML e CSS, onde fiz com autonomia;
+ - Pacote Office, onde fiz com autonomia;
+ - Gestão de Código e Colaboração, onde aprendi a fazer com autonomia;
  - NetBeans, não de forma autônoma;
  - GitHub, onde fiz porém não de forma autônoma;
  - Desenvolvimento Front-end, onde aprendi a fazer de forma autônoma;
@@ -183,17 +183,16 @@ Neste projeto pude dar continuidade e me aprofundar na função de Product Owner
  - JavaScript, onde fiz porém não de forma autônoma;
  - Manipulação, Criação e Consulta de Dados, onde estava aprendendo a fazer de forma autônoma;
  - MYSQL, onde fiz porém ainda não de forma autônoma;
- - Análise de requisitos, onde fiz com autônomia;
- - Slack, onde fiz com autônomia.
+ - Análise de requisitos, onde fiz com autonomia;
+ - Slack, onde fiz com autonomia.
 
 # Soft Skills:
 
  - Apresentação em público, pois foi necessário que eu desenvolvesse a habilidade de expressar ideias claramente e de maneira envolvente, usando tanto a fala quanto gestos, expressões faciais e postura corporal para apresentar o projeto ao cliente e a turma;
  - Relacionamento interpessoal, pois foi necessário me relacionar com meus colegas de equipe, professores e também gestores da TrackCash;
- - Proatividade, pois se fez necessária a autônomia e antecipação para que pudessemos resolver os problemas apresentados, de forma que nos adiantassemos e sanassemos alguns problemas antes deles crescerem e se tornarem gradnes impecilios.
- - Comunicação, pois a todo momento era necessária a comunicação entre o grupo, para discutir melhorias, alterações, ideias e com o cliente onde ele expunha o que era necessário e desnecessário ao seu ver;
- - Colaboração, pois a ajuda constante entre nós membros do grupo se fez cada vez mais necessária pois as dificuldades apareciam e aumentavam cada vez mais;
- - Liderança, pois fiz novamente fiz o papel de PO e estava a frente do processo de comunicação entre grupo e cliente, onde a minha liderança se fez mais necessária pois agora não era mais um professor e sim um cliente de uma emrpesa real e eu precisava mostrar a minha equipe o caminho a se seguir.
+ - Proatividade, pois se fez necessária a autonomia e antecipação para que pudessemos resolver os problemas apresentados, de forma que nos adiantassemos e sanassemos alguns problemas antes deles crescerem e se tornarem grandes impecilios.
+ - Comunicação, pois a todo momento era necessária a comunicação entre o grupo, para discutir melhorias, alterações e ideias com o cliente onde ele expunha o que era necessário e desnecessário ao seu ver;
+ - Liderança, pois novamente fiz o papel de PO e estava a frente do processo de comunicação entre grupo e cliente, onde a minha liderança se fez mais necessária pois agora não era mais um professor e sim um cliente de uma emrpesa real e eu precisava mostrar a minha equipe o caminho a se seguir.
  - Visão de negócios, pois eu precisei entender os negócios do meu cliente e como ele enxergava o mundo;
  - Visão empresarial, pois eu precisei me aprofundar na gestão empresarial e nas responsabilidades que uma empresa tem para com seu cliente;
 
@@ -260,14 +259,11 @@ Neste projeto eu pude ter o primeiro contato com a função de Desenvolvedor ten
 - Slack, de forma autônoma;
 
 #### Soft Skills:
-- Proatividade, sempre estar em movimento para poder trazer as melhores soluções, com o tempo aprendi que quem se adianta, governa;
-- Comunicação, pude melhora minha comunicação podendo aprender com as sprints anteriores, trazendo ideias mais claras trazendo uma comunicação mais frequente e clara;
-- Trabalho em Equipe, com o tempo fui capaz de entender como minha equipe funcionava e ver qual modo de trabalho era mais efetivo, agora não tendo mais um papel de liderança pude ver como é importante ser um bom líder, afinal, em uma equipe é necessário um líder, um que saiba ouvir sua equipe que as vezes vê coisas que ele não viu, para que assim possa definir a melhor forma de seguir e não de um chefe, que apenas quer dar ordens;
-- Colaboração, aprendi muito com as sprints passadas e cada vez me achava capaz de fazer tudo sozinho, percebi o quanto é importante ter uma equipe e rede de apoio, pois é normal não saber tudo, e aprendi ser normal também perguntar e pedir ajuda;
-- Empatia, algumas dificuldades não representam o mesmo tamanho para todos, tive que entender isso e me colocar no lugar do outro, muitas vezes encontrei desafios que pareceram gigantes para mim, porém meus colegas me mostraram não ser e através dessa empatia para comigo eu puder ter empatia para com eles, e mostrar que alguns desafios dos quais eles acharam gigantes não eram, e descobri que nada é maior que uma equipe que se une;
-- Flexibilidade, é importante não focarmos em só uma função, temos sim que dar prioridades para nossas responsabilidades pré estabelecidas, porém conhecimento não ocupa espaço, e quanto mais se aprende mais se sabe;
-- Solução de Problemas, problemas só são problemas até que se achem uma solução, aprendi ser importante seguir em frente pois por mais dificil que uma situação seja, com empenho e foco chegamos a uma solução.
-
+- Comunicação, pude melhorar minha comunicação podendo aprender com as sprints anteriores, e assim trazer uma noção maior de como expor ideias de formas mais claras;
+- Trabalho em Equipe, com o tempo fui capaz de entender como minha equipe funcionava e ver qual modo de trabalho era mais efetivo, e agora não tendo mais um papel de liderança pude entender mais ainda sobre trabalho em equipe e pude ver como é importante ter e ser um bom líder, afinal em uma equipe é necessário um líder que saiba ouvir, pois as vezes nós (DEV´s)vemos coisas que ele (PO) não viu, e assim levando em consideração o que foi apresentado pela equipe ele possa definir a melhor forma de seguir;
+- Colaboração, aprendi como é importante ter uma equipe e rede de apoio, pois sempre tive algo a aprender com meus colegas e muitas vezes eles me entregaram a solução da qual eu precisava e não tinha nem imaginado;
+- Empatia, algumas dificuldades não representam o mesmo tamanho para todos, tive que entender isso e me colocar no lugar do outro, muitas vezes encontrei desafios que pareceram gigantes para mim, porém meus colegas me mostraram não ser e através dessa empatia para comigo eu pude ter empatia para com eles, e mostrar que alguns desafios dos quais eles acharam gigantes não eram para mim, e poderiam não ser para nós. Nenhum problema é maior que uma equipe que se une, e isso eu aprendi nessa sprint;
+- Flexibilidade, é importante não focarmos em só uma função, temos sim que dar prioridades para nossas responsabilidades pré estabelecidas, porém conhecimento não ocupa espaço e quanto mais se aprende mais se sabe, se eu tivesse ficado preso somente as minhas responsabilidades especificas em cada sprint, não me preocupando com as demais coisas deixaria de ter agregado muito ao meu conhecimento e também a minha equipe em geral;
 
 ## Em 2023-2# Parceiro Acadêmico
  - GREENEAT.
@@ -330,12 +326,72 @@ Nesse projeto atuei novamente como desenvolvedor com as principais funções:
 - Análise de requisitos, de forma autônoma;
 
 #### Soft Skills:
-- Proatividade, quanto mais avançamos percebi que mais se faz necessária a proatividade, resultados não chegam em nossas mãos, temos que ir busca-los;
+- Proatividade, quanto mais avançamos percebi que mais se faz necessária a proatividade, resultados não chegam em nossas mãos por isso temos que ir busca-los;
 - Comunicação, sempre importante aprimorar aquilo que nos eleva, comunicação é uma skill que eu acredito ser essencial para trabalho em equipe devendo sempre ser zelada e melhorada;
-- Trabalho em Equipe, como aprendido ao decorrer de todas as sprints, trabalho em equipe é essencial e é importante zelar pelo bom relacionamento entre os membros;
-- Colaboração, quem ajuda 1 ajuda 2, era uma frase comumente usada em nosso grupo, para nos lembrar que a colaboração mutúa é útil a todos;
-- Empatia, nessa sprint pude desenvolver a empatia mas dessa vez não somente com as pessoas da equipe, e sim com o planeta do qual vivemos, onde é fundamental nosso zelo para com ele;
+- Trabalho em Equipe, pois estar em equipe ajudou a vermos diversos pontos de vista de uma mesma situação trazendo diversas soluções onde podemos escolher a melhor;
+- Colaboração, quem ajuda 1 ajuda 2 era uma frase comumente usada em nosso grupo para nos lembrar que a colaboração mutúa é útil a todos;
+
+## Em 2024-1# Parceiro Acadêmico
+ - ORACLE.
+
+
+A Oracle é uma empresa fundada nos Estados Unidos que tras consigo a missão de sempre melhorar o gerenciamento de banco de dados e de entregar produtos e serviços na área de tecnologia da informação para ambientes de grandes empresas.
+
+### Projeto:
+O projeto tinha como objetivo desenvolver um app mobile que consistisse em um sistema de gestão dos parceiros da Oracle, trazendo consigo as funções de cadastrar novos parceiros, gerenciar suas informações e definir a escala gradual de seus conhecimentos.
+### Problema:
+O desafio se dava pela atual gestão insatisfátoria de seus parceiros de negócio, onde o sistema pecava com relação ao cadastro de parceiros, atualização de informações, acompanhamento de seu desenvolvimento profissional, parametrização do nivel de conhecimento e também na dificuldade na geração de relatórios.
+
+### Solução:
+- [Acesse o projeto:](https://github.com/TechForce-ADS/Oracle)
+
+
+Desenvolvemos um projeto que teve o intuito de definir e mostrar a Oracle em que nível estão seus parceiros em questão de conhecimento em dada área específica.
+
+
+#### Tecnologias Utilizadas:
+Como principal tecnologia usamos MongoDB, React-Native e JavaScript.
+Tecnologias Utilizadas:
+- MongoDB – Banco de dados usado para armezenar as informações;
+- Android Studio - para emulação do aplicativo de forma interna;
+- JavaScript - Linguagem de programação usada no Front-end e Back-end; 
+- React - Biblioteca utilizada para o Front-End;
+- Expo – Ferramenta usada na emulação do aplicativo de forma externa;
+- Canva - Usado para prototipação; 
+- Pacote Office - Gestão da equipe; 
+- Figma – Ferramenta usada para a prototipação
+- Git - Versionamento do código; 
+- GitHub - Armazenamento do projeto e registro de documentação; 
+- Discord - Ferramenta de comunicação da equipe;
+- Slack - Ferramenta de comunicação entre Product Owner e cliente. 
+
+
+#### Contribuições Pessoais:
+Nesse projeto atuei novamente como desenvolvedor com as principais funções:
+- Desenvolvimento Front-End;
+- Desenvolvimento Back-End;
+- Participação em reuniões de brainstorming;
+- Análise de requisitos;
+- Colaboração com designers para implementar layouts e designs;
+- Teste e debugs;
+- Otimização de desempenho do código e da interface de usuário;
+- Manutenção contínua do software até sua entrega.
+
+#### Hard Skills:
+- Expo, de forma autônoma;
+- Android Studio, não de forma autônoma
+- Desenvolvimento Front-end, de forma autônoma;
+- Desenvolvimento integração Back-End - Front-End, não de forma autônoma;
+- MongoDB, de forma autônoma;
+- Análise de requisitos, de forma autônoma;
+
+#### Soft Skills:
+- Proatividade, indo atrás da ajuda que vi ser necessária para que eu pudesse entregar um front end funcional;
+- Comunicação, para expor minhas dificuldades com o projeto como por exemplo emular o app no computador, configurar corretamente os programas necessários, e a unificação do back com o front, e também fazer perguntas que me deram a direção correta para seguir;
+
 
 
 </p>
+
+
 
