@@ -18,13 +18,14 @@ https://github.com/italobonilha
 ## Introdução
 
 Olá!
-Me chamo Ítalo Bonilha, tenho 20 anos e atualmente sou estudante do 5º Semestre de Análise e Desenvolvimento de Sistemas (ADS) na FATEC São José dos Campos - Prof. Jessen Vidal. 
+Me chamo Ítalo Bonilha, tenho 22 anos, sou estudante do 6º Semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal e formado técnico em Desenvolvimento de sistemas pela ETEC - Prof. Ilza Nascimento Pintus e especialista em TI pelo grupo Ânima, sendo o responsavel pelo sistema na Anhembi Morumbi.
 
-Escolhi essa faculdade pois vi nela a oportunidade de seguir aprofundando meus conhecimentos em uma área da qual eu ja estava inserido, afinal, meus 3 anos de ensino médio foram cursados na ETEC onde o curso técnico realizado juntamente com o ensino médio era o de Desenvolvimento de Sistemas (DS), uma área crescente no mercado atual que gera diversas oportunidades e pode entregar uma boa qualidade de vida, tanto no âmbito profissional, quanto no pessoal.
+Meu interesse por tecnologia despertou desde pequeno, sempre tive dentro de mim o interesse e a curiosidade para explorar, mesmo que de forma simples em um computador antigo que meu pai usava para trabalho. Meu interesse pela área foi se desenvolvendo conforme o desenrolar do curso técnico, onde eu tive um contato não somente como usuário mas também a oportunidade de enxergar a tecnologia como uma ferramenta, conhecendo o HTML, CSS, Banco de Dados, e o Design Digital que fizeram eu me interessar ainda mais pelo curso e pela área que estava entrando. 
+Posteriomente escolhi a faculdade porque vi nela a oportunidade de seguir aprofundando meus conhecimentos em algo da qual eu ja estava inserido, e em uma área crescente no mercado atual que gera diversas oportunidades e pode entregar uma boa qualidade de vida, tanto no âmbito profissional, quanto no pessoal.
+Sempre tive interesse em computadores, redes, internet etc, a tecnologia sempre me atraiu e ao longo dos anos pude entender como tudo funciona e me aperfeiçoar em como fazer tudo funcionar. Interessante como as coisas se completam e como há sempre o que aprender, onde tudo se torna possível a quem sabe como realizar.
 
-Sempre tive interesse em computadores, redes, internet etc, a tecnologia sempre me atraiu e ao longo dos anos pude entender como tudo funciona, e me aperfeiçoar em como fazer tudo funcionar. Interessante como as coisas se completam e como há sempre o que aprender, onde tudo se torna possível aquele que sabe como realizar.
-
-Este portfólio acadêmico visa atender os requisitos do Trabalho de Graduação (TG) e mostrar um pouco mais não só sobre mim, como também sobre meus projetos que foram e estão sendo desenvolvidos ao longo desse período universitário.
+Minha primeira expêriencia na área foi em um estágio na empresa Valltech, fazendo manutenção preventiva nos equipamentos, tanto em hardware fazendo formatações, limpezas, e upgrades quando necessário (como adicionar uma nova memória RAM ou trocar o SSD por exemplo) quanto em preparação de backup e principalmente prestando suporte aos nosso clientes, era uma empresa focada em controle de acesso e cftv. Nela além de ter meu primeiro contato profissional com hardware pude aprender mais sobre protocolo http, funcionamento de servidor e cliente, mexer ativamente com o banco de dados (MongoDB) buscando alternativas a problemas que apareciam sendo desafiado a ir além da resolução simples do problema, e instigado a ir em busca da origem, do porque aquele problema vinha a existir e como resolve-lo de forma eficiente resultando em uma solção definitiva e não temporária.
+Este portfólio acadêmico visa atender os requisitos do Trabalho de Graduação e mostrar um pouco mais não só sobre mim mas também sobre meus projetos que foram desenvolvidos ao longo desse período universitário.
 
 Neste portfólio encontram-se projetos realizados na iniciativa "Aprendizado por Projeto Integrador (API)", um projeto proposto pela faculdade onde nós, alunos, nos conectamos a empresas reais e fornecemos a elas soluções para problemas que enfrentam.
 
@@ -38,7 +39,7 @@ Visando o nosso aprendizado de forma interativa e prática, o projeto também no
 # 2022 - 1 
 
 # Parceiro Acadêmico
- - FATEC SÃO JOSÉ DOS CAMPOS - PROF. JASSEN VIDAL.
+ - FATEC SÃO JOSÉ DOS CAMPOS - PROF. JASSEN VIDAL. (Professor Antônio  Egydio)
 
 
  A Faculdade de Tecnologia Prof. Jessen Vidal (FATEC SJC) de São José dos Campos, faz parte de um seleto e importante grupo de instituições brasileiras de ensino superior de tecnologia do estado de São Paulo, pertencentes ao Centro Estadual de Educação Tecnológica Paula Souza (CEETEPS), a instituição que possui excelência em seus cursos de graduação tem como objetivo formar profissionais nas áreas de atuação esecolhida de forma mais específica.
