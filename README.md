@@ -5,7 +5,6 @@
 ## Contatos:
 <a href= "https://www.linkedin.com/in/ítalobonilha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "https://github.com/italobonilha" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-```
 
 ## Introdução
 
@@ -59,11 +58,11 @@ Visando o nosso aprendizado de forma interativa e prática, o projeto também no
 - [Acesse o Projeto: ](https://github.com/TechForce-ADS/DispVag)
 
 
- A colaboração entre grupo de desenvolvimento e cliente foi essencial para estabelecermos a criação do site que fosse capaz de segmentar vagas específicas da área de TI das demais. Este projeto foi batizado como DISPVAG (acróstico de VAGA DISPONÍVEL invertendo as palavras e usando as primeiras letras, "DISPonível VAGa") e foi apresentado como uma solução simples, porém eficaz e de fácil usabilidade para os usuários pelos alunos recém-ingressos na FATEC de São José dos Campos no primeiro semestre de 2021.
+O objetivo do projeto era a criação de um site que fosse capaz de fornecer e segmentar cursos e vagas TI específicas de cada área. Este projeto foi batizado como DISPVAG (acróstico de VAGA DISPONÍVEL invertendo as palavras e usando as primeiras letras, "DISPonível VAGa") e foi apresentado como uma solução simples porém eficaz e de fácil usabilidade para os usuários.
 
- O DISPVAG foi projetado para atender às necessidades crescentes do mercado de trabalho, proporcionando aos candidatos uma experiência de busca de emprego mais fácil, personalizada e eficiente, e para atingir seu objetivo foram fornecidos recursos de filtragem avançados, onde os usuários podem facilmente encontrar as vagas que correspondem às suas habilidades e interesses com um sistema que foi desenvolvido com uma interface intuitíva e amigável, pensando na melhor experiência pro usuário.
+DISPVAG foi projetado para atender às necessidades crescentes do mercado de trabalho, proporcionando aos candidatos uma experiência de busca de emprego mais fácil, personalizada e eficiente, para atingir seu objetivo foram fornecidos recursos de filtragem avançados, onde os usuários podem facilmente encontrar as vagas que correspondem às suas habilidades e interesses com um sistema que foi desenvolvido com uma interface intuitíva e amigável, pensando na melhor experiência pro usuário.
 
- Ao seu lançamento, DISPVAG recebeu um feedback positivo tanto de empresas que vieram a feira técnologica prestigiar e conhecer os projetos desenvolvidos pelos alunos no semestre quanto por colegas de sala e professores, findando seu objetivo sendo classificado como um site de ótima curva de aprendizagem por seu fácil entendimento e navegabilidade que realmente facilita e entrega o proposto no quesito usabilidade e gerenciamento de vagas podendo ser implementado de forma eficaz como uma solução viável no cenário de fornecimento de vagas de emprego na região do Vale do Paraíba.
+No seu lançamento, DISPVAG recebeu um feedback positivo tanto de empresas que vieram a feira técnologica prestigiar e conhecer os projetos desenvolvidos pelos alunos do primeiro semestre quanto por colegas de sala e professores, findando seu objetivo e sendo classificado como um site com ótima curva de aprendizado por seu fácil entendimento e navegabilidade que realmente facilita e entrega o proposto podendo ser implementado de forma eficaz como uma solução viável no cenário de fornecimento de vagas de emprego na região do Vale do Paraíba.
 
 
 # Tecnologias Utilizadas:
@@ -72,48 +71,51 @@ Visando o nosso aprendizado de forma interativa e prática, o projeto também no
 
 - HTML e CSS: Utilizados para a estruturação e estilização do site visando uma experiência visualmente agradável e de fácil entendimento;
 - Canvas: Para a criação de elementos gráficos interativos, enriquecendo a experiência do usuário;
-- Pacote Office: Utilizado para a organização da equipe, documentação e comunicação do projeto;
-- GitHub: Plataforma para a entrega, acompanhamento do professor (cliente) e colaboração do código-fonte;
-- Discord: Ferramenta de comunicação remota entre os integrantes do grupo;
-- Python e outras linguagens: Linguagens de programação essenciais para o desenvolvimento do backend e de funcionalidades específicas do sistema;
-- Visual Studio Code: Ambiente de desenvolvimento integrado (IDE) utilizado para a codificação e depuração do código-fonte de forma eficiente;
-- SQL: Linguagem para a manipulação e consulta ao banco de dados no sistema;
+- Pacote Office: Utilizado para a organização da equipe, documentação e apresentação do projeto;
+- GitHub: Plataforma para a entrega, acompanhamento do professor (cliente) e colaboração no código-fonte;
+- Python e JavaScript: Linguagens de programação essenciais para o desenvolvimento do back-end, front-end e das funcionalidades do sistema;
+- SQL: Linguagem para a manipulação e consulta ao banco de dados;
 
 # Contribuição Pessoal:
 
 Neste projeto eu pude ter o primeiro contato com a função de Product Owner (PO) tendo como pricipais funções:
 
  - Entender a necessidade do cliente sendo o que ele queria e entendia como essencial ao seu sistema;
- - Fazer reuniões para apresentar o progresso do projeto, e entender as necessidades do mesmo;
- - Mostrar ao grupo qual era o caminho a ser seguido, afinal eu era a conexão DEV'S - cliente;
+ - Fazer reuniões para apresentar o progresso do projeto e entender as necessidades do mesmo;
+ - Criação do backlog;
+ - Mostrar ao grupo qual era o caminho a ser seguido através de estratégias montadas;
  - A pesquisa de vagas reais para serem inseridas no sistema junto com cursos e métricas;
- - Auxílio na parte visual (front-end);
+ - Auxílio no front-end;
  - Apresentação final do projeto para o cliente e turma.
-
-A metodologia ágil e a divisão de funções permitiu a transição de responsabilidades dentro da equipe trazendo uma abordagem flexível e adaptável possibilitando a entrega de um produto final satisfatório e de acordo com as expectativas do cliente.
-
+<details>
+<summary>Desenvolvimento Prático</summary>
+<br>
+No desenvolvimento prático criei o backlog para que a equipe se organizasse e garantisse que o projeto avançasse conforme o planejado.
+Auxiliei na criação do CSS desenvolvendo a organização das páginas para garantir que a parte visual estivesse bem estruturada e de fácil usabilidade ao usuário.
+Fui o responsável pela pesquisa das diversas vagas, cursos e métricas apresentados no site, identificando a necessidade e interesse do público alvo e o ofertado pelas empresas e instituições me certificando que o conteúdo fosse relevante.
+Desenvolvi o sistema de gráficos que foram apresentados e também implantei a página de dúvidas frequentes que realmente eram enviadas a um email onde as dúvidas eram armazenadas de forma que em um ambiente real o usúario teria uma resposta.
+</details>
 
 # Hard Skills:
 
- - HTML e CSS, onde fiz com autonomia;
- - Pacote Office, onde fiz com autonomia;
- - Gestão de Código e Colaboração, onde fiz porém não sabia fazer de forma autônoma;
- - GitHub, onde fiz porém não sabia fazer de forma autônoma;
- - Desenvolvimento Front-end, onde fiz porém não sabia fazer de forma autônoma;
- - Python, onde fiz porém não sabia fazer de forma autônoma;
- - JavaScript, onde fiz porém não sabia fazer de forma autônoma;
- - Manipulação, Criação e Consulta de Dados, onde fiz porém não sabia fazer de forma autônoma;
- - MYSQL, onde fiz porém não sabia fazer de forma autônoma.
+ - HTML e CSS - realizo com autonomia;
+ - Pacote Office - realizo com autonomia;
+ - Gestão de Código e Colaboração - realizo com autonomia;
+ - GitHub - realizo com auxílio;
+ - Python - realizo com auxílio;
+ - JavaScript - realizo com auxílio;
+ - Manipulação, Criação e Consulta de Dados - realizo com autonomia;
+
 
 # Soft Skills:
+> Compromisso e Proatividade: Como era o primeiro semestre, nenhum de nós tinha um conhecimento avançado se fazendo necessára o compromisso e a proatividade para aprender e desenvolver novas habilidades o que incluiu estudos fora do horário de aula, como participação em cursos online, leitura de documentação técnica, realização de testes práticos e experimentação ativa com as ferramentas necessárias.
 
- - Apresentação em público, pois foi necessária a apresentação para a turma e para o cliente;
- - Relacionamento interpessoal, pois foi necessário me relacionar com meus colegas de equipe e também professores;
- - Proatividade, pois como era o primeiro semestre, nenhum de nós tinha um conhecimento avançado se fazendo necessára a proatividade para aprender e desenvolver novas habilidades;
- - Comunicação, pois a todo momento era necessária a comunicação entre o grupo, para discutir melhorias, alterações, ideias e com o professor que fazia o papel do cliente onde expunha o que era necessário e desnecessário ao seu ver;
- - Trabalho em Equipe, pois sem o esforço para trabalharmos juntos não teriamos chego ao objetivo final;
- - Colaboração, ao longo dos meses fomos aprendendo que se não colaborassemos entre nós não chegariamos a lugar nenhum, era frequente os casos onde nos ajudavamós pois sendo diferentes, podiamos ajudar uns aos outro a ser melhor e da mesma forma em que pude ajudar, também fui muito ajudado;
- - Liderança, pois fiz o papel de PO e estava a frente do processo de comunicação entre grupo e cliente, onde foi necesária a minha liderança onde eu desbravava o caminho junto ao cliente e mostrava para a minha equipe para que eles pudessem me seguir e chegarmos juntos ao nosso objetivo.
+> Comunicação: A habilidade de comunicação foi essencial para garantir a colaboração e o relacionamento tanto com a equipe quanto com o cliente, para que de forma eficaz conseguissimos compartilhar entre nós as informações, ideias e feedbacks. Para isso realizei diversas reuniões presenciais e onlines para garantir que todos estivessem alinhados  para resolvermos quaisquer dúvidas ou problemas.
+
+> Trabalho em equipe: O relacionamento interpessoal é importantíssimo e por isso visei um ambiente de trabalho cooperativo e aberto a sugestões, a todo momento expressando minhas ideias mas também abrindo a discussão e escutando ativamente a minha equipe.
+
+> Gestão de tempo: As estratégias montadas por mim visavam não só o desenvolvimento do projeto definindo prioridades mas também a garantia de que o projeto andasse e se cumprisse no prazo, de forma que não era aceitável entregas atrasadas. Mantendo essa postura disciplinada e organizada pude maximizar a produtividade e eficiência das entregas.
+
 
 # 2022-2
 # Parceiro Acadêmico
