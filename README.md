@@ -3,7 +3,7 @@
 <img src="portifólio tg/Imagens/italo.jpeg" width="200" height="200">
 
 ## Contatos:
-<a href= "https://br.linkedin.com/in/italobonilha-691322196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href= "https://www.linkedin.com/in/ítalobonilha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 > Linkedin
 ```
