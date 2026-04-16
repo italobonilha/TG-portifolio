@@ -33,7 +33,7 @@ Visando o nosso aprendizado de forma interativa e prática, o projeto também no
  - FATEC SÃO JOSÉ DOS CAMPOS - PROF. JASSEN VIDAL. (Professor Antônio  Egydio)
 
 
- A Faculdade de Tecnologia Prof. Jessen Vidal (FATEC SJC) de São José dos Campos, faz parte de um seleto e importante grupo de instituições brasileiras de ensino superior de tecnologia do estado de São Paulo, pertencentes ao Centro Estadual de Educação Tecnológica Paula Souza (CEETEPS), a instituição que possui excelência em seus cursos de graduação tem como objetivo formar profissionais nas áreas de atuação esecolhida de forma mais específica.
+ A Faculdade de Tecnologia Prof. Jessen Vidal (FATEC SJC) de São José dos Campos faz parte de um seleto e importante grupo de instituições brasileiras de ensino superior de tecnologia do estado de São Paulo, pertencentes ao Centro Estadual de Educação Tecnológica Paula Souza (CEETEPS), a instituição que possui excelência em seus cursos de graduação tem como objetivo formar profissionais nas áreas de atuação esecolhida de forma mais específica.
 
  No primeiro semestre a FATEC Prof. Jessen Vidal se responsabilizou por introduzir aos novos alunos o modelo de avaliação e aprendizado denominado API, onde eles seriam a empresa parceira a fornecer o desafio a ser cumprido ao decorrer do semestre para que fôssemos familiarizados e pudéssemos trabalhar com empresas reais ao decorrer dos semestres que viriam.
 
@@ -41,7 +41,7 @@ Visando o nosso aprendizado de forma interativa e prática, o projeto também no
 
 # Problema:
 
- O problema proposto era um sistema web para facilitar o processo de catalogar vagas de diversas profissões com ênfase na área de TI, visando a facilidade do usuário em achar a vaga de seu interesse.
+ O problema proposto era um sistema web para facilitar a busca por vagas e cursos na área de TI, com o objetivo de segmentar o conteúdo de acordo com a área respectiva endereçando e facilitando a busca por vagas especiíficas dentro das diversas ramificações da área de TI. O projeto visava a facilidade do usuário em achar a vaga de seu interesse.
  Configurando métricas em pontos como de conhecimentos, habilidades e competências, visualmente o sistema deveria ter informações estratégicas sendo postas em gráficos, com maior foco na facilidade de usabilidade do cliente e seus usuários, que neste projeto em sua maioria seriam pessoas de qualquer idade e qualquer tipo de formação em busca de um emprego.
 
  O projeto conta com toda uma documentação de desenvolvimento inserida no GitHub apresentando todos os processos necessários para a fidelização do pedido do cliente.
@@ -66,8 +66,7 @@ No seu lançamento, DISPVAG recebeu um feedback positivo tanto de empresas que v
 
 
 # Tecnologias Utilizadas:
-
-> Para a realização deste projeto foram usadas as seguintes tecnologias:
+Para a realização deste projeto foram usadas as seguintes tecnologias:
 
 - HTML e CSS: Utilizados para a estruturação e estilização do site visando uma experiência visualmente agradável e de fácil entendimento;
 - Canvas: Para a criação de elementos gráficos interativos, enriquecendo a experiência do usuário;
