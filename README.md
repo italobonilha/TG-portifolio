@@ -4,16 +4,7 @@
 
 ## Contatos:
 <a href= "https://www.linkedin.com/in/ítalobonilha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-> Linkedin
-```
-www.linkedin.com/in/ítalobonilha
-
-
-```
-> Githubs
-```
-https://github.com/italobonilha
+<a href = "https://github.com/italobonilha" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 ```
 
 ## Introdução
