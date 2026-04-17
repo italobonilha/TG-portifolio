@@ -12,8 +12,8 @@ Olá!
 Me chamo Ítalo Bonilha, tenho 22 anos, sou estudante do 6º Semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal e formado técnico em Desenvolvimento de sistemas pela ETEC - Prof. Ilza Nascimento Pintus e especialista em TI pelo grupo Ânima, sendo o responsavel pelo sistema na Anhembi Morumbi.
 
 Meu interesse por tecnologia despertou desde pequeno, sempre tive dentro de mim o interesse e a curiosidade para explorar, mesmo que de forma simples em um computador antigo que meu pai usava para trabalho. Meu interesse pela área foi se desenvolvendo conforme o desenrolar do curso técnico, onde eu tive um contato não somente como usuário mas também a oportunidade de enxergar a tecnologia como uma ferramenta, conhecendo o HTML, CSS, Banco de Dados, e o Design Digital que fizeram eu me interessar ainda mais pelo curso e pela área que estava entrando. 
-Posteriomente escolhi a faculdade porque vi nela a oportunidade de seguir aprofundando meus conhecimentos em algo da qual eu ja estava inserido, e em uma área crescente no mercado atual que gera diversas oportunidades e pode entregar uma boa qualidade de vida, tanto no âmbito profissional, quanto no pessoal.
-Sempre tive interesse em computadores, redes, internet etc, a tecnologia sempre me atraiu e ao longo dos anos pude entender como tudo funciona e me aperfeiçoar em como fazer tudo funcionar. Interessante como as coisas se completam e como há sempre o que aprender, onde tudo se torna possível a quem sabe como realizar.
+Posteriomente escolhi a faculdade porque vi nela a oportunidade de seguir aprofundando meus conhecimentos em uma área crescente no mercado atual, que gera diversas oportunidades e pode entregar uma boa qualidade de vida tanto no âmbito profissional, quanto no pessoal.
+Sempre tive interesse em computadores, redes, internet etc, a tecnologia sempre me atraiu e ao longo dos anos pude entender como tudo funciona e me aperfeiçoar em como fazer tudo funcionar, e ver quão interessante é como as coisas se completam e como há sempre o que aprender, onde tudo se torna possível a quem sabe como realizar.
 
 Minha primeira expêriencia na área foi em um estágio na empresa Valltech, fazendo manutenção preventiva nos equipamentos, tanto em hardware fazendo formatações, limpezas, e upgrades quando necessário (como adicionar uma nova memória RAM ou trocar o SSD por exemplo) quanto em preparação de backup e principalmente prestando suporte aos nosso clientes, era uma empresa focada em controle de acesso e cftv. Nela além de ter meu primeiro contato profissional com hardware pude aprender mais sobre protocolo http, funcionamento de servidor e cliente, mexer ativamente com o banco de dados (MongoDB) buscando alternativas a problemas que apareciam sendo desafiado a ir além da resolução simples do problema, e instigado a ir em busca da origem, do porque aquele problema vinha a existir e como resolve-lo de forma eficiente resultando em uma solção definitiva e não temporária.
 Este portfólio acadêmico visa atender os requisitos do Trabalho de Graduação e mostrar um pouco mais não só sobre mim mas também sobre meus projetos que foram desenvolvidos ao longo desse período universitário.
@@ -120,23 +120,17 @@ Desenvolvi o sistema de gráficos que foram apresentados e também implantei a p
 # Parceiro Acadêmico
  - TRACKCASH.
 
-
-A TrackCash é uma empresa focada na gestão financeira, projetada para ajudar empresas de diferentes tamanhos e setores para organizar suas finanças. Oferecendo uma solução de negócios (B2B) com intuito de conciliar vendas e pagamento de diversas plataformas de comércio, como e-commerce, marketplace e lojas físicas, oferecendo aos seus clientes um painel para que eles possam visualizar e gerenciar transações finaceiras de suas plataformas de vendas. 
-
+A TrackCash é uma empresa focada na gestão financeira, projetada para ajudar empresas de diferentes tamanhos e setores a organizar suas finanças. 
 
 ### Projeto:
-No segundo semestre tivemos como objetivo desenvolver um CRUD para que eles pudessem atender a demanda dos seus clientes que são vendedores de lojas onlines e físicas, afim de  realizar o processo de conciliação finaceira. 
+A ideia do projeto a ser realizado no segundo semestre era oferecer uma solução de negócios B2B com intuito de conciliar as vendas e pagamentos de diversas plataformas de comércio, como e-commerce, marketplace e lojas físicas, oferecendo aos seus clientes um painel para que eles possam visualizar e gerenciar transações finaceiras das suas respecitvas plataformas de vendas, realizando um processo de conciliação finaceira. També englobava o escolpo do projeto a funcionalidade de criação e gerenciamento de contas dos usuários e operadores.
 
-### Problema:
-A problemática dada era a necessidade de uma aplicação onde o cliente desse autorização para a empresa ter acesso aos seus dados. 
 
 ### Solução:
 - [Acesse o Projeto: ](https://github.com/TechForce-ADS/TrackCash)
 
 
-Como solução, criamos uma aplicação intuitiva de fácil entendimento para que os clientes dessem a autorização por meio de email, senha ou tokens para que os sistemas da TrackCash pudessem ter acesso a: 
-- apis e planilhas automatizadas;
-E assim o sistema salvaria as informações de usuários, senhas e tokens.
+Como solução, criamos uma aplicação intuitiva de fácil entendimento para que os clientes dessem a autorização por meio de email, senha ou token para que os sistemas da TrackCash pudessem ter acesso a API'S e planilhas automatizadas e assim o sistema salvaria as informações de usuários, senhas e tokens.
 
 #### Tecnologias Utilizadas
 Como principal tecnologia usamos HTML e JAVA.
