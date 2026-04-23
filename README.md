@@ -123,14 +123,14 @@ Desenvolvi o sistema de gráficos que foram apresentados e também implantei a p
 A TrackCash é uma empresa focada na gestão financeira, projetada para ajudar empresas de diferentes tamanhos e setores a organizar suas finanças. 
 
 ### Projeto:
-A ideia do projeto a ser realizado no segundo semestre era oferecer uma solução de negócios B2B com intuito de conciliar as vendas e pagamentos de diversas plataformas de comércio, como e-commerce, marketplace e lojas físicas, oferecendo aos seus clientes um painel para que eles possam visualizar e gerenciar transações finaceiras das suas respecitvas plataformas de vendas, realizando um processo de conciliação finaceira. També englobava o escolpo do projeto a funcionalidade de criação e gerenciamento de contas dos usuários e operadores.
+A ideia do projeto a ser realizado no segundo semestre era oferecer uma solução de negócios B2B com intuito de conciliar em um lugar só as vendas e pagamentos de diversas plataformas de comércio como e-commerce, marketplace e lojas físicas, oferecendo aos seus clientes um painel para que eles possam visualizar e gerenciar transações finaceiras das suas respecitvas plataformas de vendas, realizando um processo de conciliação finaceira. Também englobava o escolpo do projeto a funcionalidade de criação e gerenciamento de contas para usuários e operadores.
 
 
 ### Solução:
 - [Acesse o Projeto: ](https://github.com/TechForce-ADS/TrackCash)
 
 
-Como solução, criamos uma aplicação intuitiva de fácil entendimento para que os clientes dessem a autorização por meio de email, senha ou token para que os sistemas da TrackCash pudessem ter acesso a API'S e planilhas automatizadas e assim o sistema salvaria as informações de usuários, senhas e tokens.
+Como solução, criamos uma aplicação intuitiva de fácil entendimento para que os clientes dessem a autorização por meio de email, senha ou token para que os sistemas da TrackCash pudessem ter acesso a API'S e planilhas automatizadas e assim o sistema salvaria as informações de usuários, senhas e tokens fornecidos.
 
 #### Tecnologias Utilizadas
 Como principal tecnologia usamos HTML e JAVA.
@@ -144,52 +144,60 @@ Tecnologias Utilizadas:
 - Git - Versionamento do código; 
 - GitHub - Armazenamento do projeto e registro de documentação; 
 - Discord - Ferramenta de comunicação da equipe;
-- Slack - Ferramenta de comunicação entre Product Owner e cliente.
-
-
+- Slack - Ferramenta de comunicação entre Product Owner e cliente. 
 
 #### Contribuições Pessoais:
 Neste projeto pude dar continuidade e me aprofundar na função de Product Owner (PO) tendo como pricipais funções:
 
- - Entender a necessidade do cliente sendo o que ele queria e entendia como essencial ao seu sistema, e agora não um professor da faculdade e sim um representante legal de uma empresa não fictícia;
- - Reuniões semanais para apresentar ao cliente o progresso e ouvir suas especificações;
- - Mostrar ao grupo qual era o caminho a ser seguido, afinal eu era a conexão DEV'S - cliente;
+ - Entender o que o cliente queria e via como essencial ao seu sistema, e agora não um professor da faculdade mas sim um representante legal de uma empresa não fictícia;
+ - Reuniões semanais para apresentar ao cliente o progresso do projeto e ouvir suas especificações;
+ - Mostrar ao grupo qual era o caminho a ser seguido, sendo a conexão DEV'S - cliente;
  - Compreender mais sobre o sistema da TrackCash e sobre seus metódos de negócio principalmente de validação de informações;
  - Auxílio no Front-End;
  - Auxílio no Back-End;
  - Apresentação final.
 
+<details>
+<summary>Desenvolvimento Prático</summary>
+<br>
+No desenvolvimento prático me aperfeiçoei na lógica de criação do backlog trazendo algo muito mais claro e completo desenvolvendo os requisitos funcionais e não funcionais organizados de forma prática baseada em prioridades e necessidades do projeto. Isso permitiu que a equipe se organizasse muito melhor e soubesse o que fazer a todo momento durante o projeto.
+Implementei a lógica do banco de dados criando o DER para que a equipe conseguisse visualizar de forma clara o mapeamento das entidades, atributos e a forma que se conectavam.
+Desenvolvi o sistema de geração de tokens para que o usuário liberasse o acesso das informações através da validação do mesmo.
+</details>
+
+
 # Hard Skills:
 
- - HTML e CSS, onde fiz com autonomia;
- - Pacote Office, onde fiz com autonomia;
- - Gestão de Código e Colaboração, onde aprendi a fazer com autonomia;
- - NetBeans, não de forma autônoma;
- - GitHub, onde fiz porém não de forma autônoma;
- - Desenvolvimento Front-end, onde aprendi a fazer de forma autônoma;
- - Desenvolvimento de Back-End, onde fiz porém não de forma autônoma;
- - JavaScript, onde fiz porém não de forma autônoma;
- - Manipulação, Criação e Consulta de Dados, onde estava aprendendo a fazer de forma autônoma;
- - MYSQL, onde fiz porém ainda não de forma autônoma;
- - Análise de requisitos, onde fiz com autonomia;
- - Slack, onde fiz com autonomia.
+ - HTML e CSS, realizo com autonomia;
+ - Pacote Office, realizo com autonomia;
+ - Gestão de Código e Colaboração, realizo com autonomia;
+ - NetBeans, realizo com auxílio;
+ - GitHub, realizo com autonomia;
+ - Desenvolvimento Java Back-End, realizo com auxílioa;
+ - Java Swing, realizo com auxílio;
+ - Manipulação de Dados, realizo com autonomia;
+ - MYSQL, realizo com autonomia;
+ - Análise de requisitos, realizo com autonomia;
+ - Slack, realizo com autonomia.
 
 # Soft Skills:
 
- - Apresentação em público, pois foi necessário que eu desenvolvesse a habilidade de expressar ideias claramente e de maneira envolvente, usando tanto a fala quanto gestos, expressões faciais e postura corporal para apresentar o projeto ao cliente e a turma;
- - Relacionamento interpessoal, pois foi necessário me relacionar com meus colegas de equipe, professores e também gestores da TrackCash;
- - Proatividade, pois se fez necessária a autonomia e antecipação para que pudessemos resolver os problemas apresentados, de forma que nos adiantassemos e sanassemos alguns problemas antes deles crescerem e se tornarem grandes impecilios.
- - Comunicação, pois a todo momento era necessária a comunicação entre o grupo, para discutir melhorias, alterações e ideias com o cliente onde ele expunha o que era necessário e desnecessário ao seu ver;
- - Liderança, pois novamente fiz o papel de PO e estava a frente do processo de comunicação entre grupo e cliente, onde a minha liderança se fez mais necessária pois agora não era mais um professor e sim um cliente de uma emrpesa real e eu precisava mostrar a minha equipe o caminho a se seguir.
- - Visão de negócios, pois eu precisei entender os negócios do meu cliente e como ele enxergava o mundo;
- - Visão empresarial, pois eu precisei me aprofundar na gestão empresarial e nas responsabilidades que uma empresa tem para com seu cliente;
+> Autonomia: Essencial para a antecipação de problemas de forma que nos adiantassemos e sanassemos alguns antes deles crescerem e se tornarem grandes impecilios.
+
+> Liderança: Se fez necessária mais do que nunca pois a equipe necessitou de um líder, agora tratando-se de uma empresa real era minha responsabilidade mostrar a equipe o caminho a seguir.
+
+> Resolução de Problemas: Essencial para desenvolver soluções eficientes aos desafios técnicos apresentados ao longo das sprints, como a criação de sistemas de validação seguros aos clientes e a constante evolução como PO de forma a entender os desafios técnicos enfrentados pela equipe. A habilidade de resolver problemas foi importante para identificar, analisar e solucionar problemas que surgem durante o desenvolvimento garantindo que as funcionalidades atendam aos requisitos estipulados
+
+> Visão de dono: Fundamental ao papel de PO pois precisei me aprofundar na gestão empresarial e nas responsabilidades que uma empresa tem para com seu cliente precisamdo entender não só os negocios do meu cliente mas também como ele enxergava o mundo.
+
+> Comunicação Eficaz: A comunicação foi essencial pois sendo a conexão da equipe de desenvolvimento com o cliente diversas vezes foi necessário falar "duas linguas", a lingua técnica com a equipe traduzindo a uma forma mais simples para o cliente e vice versa, entendedo a linguagem simples do clientde e transformando em termos técnicos a passar para a equipe dando o direcionamento a ser seguida. Se fez fundamental para discutir melhorias, alterações e ideias onde a comunicação aprimorou a colaboração da equipe sendo importantissima para alinhar o projeto com as expectativas do cliente as necessidades do usuário e a capacidade da equipe.
 
 
 ## Em 2023-1
 # Parceiro Acadêmico
  - VISIONA
 
-A empresa foi fundada em 2012 e surgiu como uma parceria estratégica entre a Embraer Defesa & Segurança e a Telebras com foco na integração de sistemas espaciais e na oferta de serviços via satélite.
+A empresa foi fundada em 2012 e surgiu como uma parceria estratégica entre a Embraer Defesa & Segurança e a Telebras tendo foco na integração de sistemas espaciais e na oferta de serviços via satélite.
 
 
 ### Projeto:
@@ -203,18 +211,18 @@ A problemática apresentada era a falta de um sistema de gerenciamento de usuár
 ### Solução:
 - [Acesse o projeto:](https://github.com/TechForce-ADS/Visiona)
 
-Como solução criamos uma interface de gerenciamento intuitivo seguindo os parâmetros dados pelo cliente. Podendo listar, adicionar, deletar, editar, atribuir permissões para os usuários. 
+Como solução criamos um sistema com uma interface de gerenciamento intuitivo seguindo os parâmetros dados pelo cliente. Houve a separação de perfis onde teria o usuário comum e o perfil administrativo podendo listar, adicionar, deletar, editar e atribuir permissões para os usuários. 
 
 
 #### Tecnologias Utilizadas
 Como principal tecnologia usamos Postgres, JavaScript e TypeScript.
 Tecnologias Utilizadas:
 - NodeJS - Ambiente de execução;
-- JavaScript - Linguagem de programação usada no Front-end e Back-end; 
+- JavaScript - Principal linguagem de programação; 
 - React - Biblioteca utilizada para o Front-End;
 - TypeScript - Linguagem de programação auxiliar;
 - Postgres - Banco de dados;
-- Canva - Usado para prototipação; 
+- Figma - Usado para prototipação; 
 - Pacote Office - Gestão da equipe; 
 - Git - Versionamento do código; 
 - GitHub - Armazenamento do projeto e registro de documentação; 
@@ -223,13 +231,13 @@ Tecnologias Utilizadas:
 
 
 #### Contribuições Pessoais:
-Neste projeto eu pude ter o primeiro contato com a função de Desenvolvedor tendo como pricipais funções:
+Neste projeto eu tive o primeiro contato com a função de Desenvolvedor tendo como pricipais funções:
 
 - Desenvolvimento Front-End;
 - Desenvolvimento Back-End;
 - Participação em reuniões de brainstorming;
 - Análise de requisitos com a equipe;
-- Colaboração com designers para implementar layouts e designs;
+- Colaboração para implementar layouts e designs;
 - Teste e debugs;
 - Otimização de desempenho do código e da interface de usuário;
 - Manutenção contínua do software até sua entrega.
